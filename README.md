@@ -15,7 +15,7 @@
 - That the JSP Fragment modules JSPs should be 'rebased' as part of any future Liferay DXP upgrade.
 
 ## TODO ##
-- Update the JSP based on the the columns to be hidden. For example:
+- Update the JSP based on the columns to be hidden. For example:
   - It may be desirable to show the Path column in Search Results only.
   - Author column may not be relevant.
   - One or more of the Date columns (Modified Date / Display Date	/ Create Date) may not be relevant.
