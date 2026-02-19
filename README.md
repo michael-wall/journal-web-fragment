@@ -1,7 +1,7 @@
 ## Introduction ##
 - A JSP Fragment Module to override the Web Content Articles Grid screen and the Web Content Articles Search Results grid screen to hide the Description and Path columns to prevent the need to scroll to see the item Actions.
-  - The JSP to render this particular grid screen is: journal-web\src\main\resources\META-INF\resources\view_entries.jsp
-  - The only configuration is:
+  - The JSP to render this particular grid screen is: journal-web\src\main\resources\META-INF\resources\view_entries.jsp from module com.liferay.journal.web.jar in osgi/portal.
+  - The only configuration to change the grid behavior is:
     - Switching the 'Display Style' in the GUI:
       - Cards label == displayStyle icon
       - Lists label == displayStyle descriptive
